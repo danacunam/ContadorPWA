@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    color:whitesmoke;
+    text-align: center;
+}
+
+body div{
+    height: 40vh;
+}
+
+.counter{
+    background:#333;
+    width: 50%;
+    margin: auto;
+}
+
+.counter h1{
+    height: 40%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.menor{
+    color: tomato;
+}
+
+.mayor{
+    color: limegreen;
+}
+
+button{
+    margin: 2rem 1rem;
+    padding: 0.5rem;
+    cursor:pointer;
+}
